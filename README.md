@@ -1,2 +1,2 @@
-# Poked-x-Reativo
+# Pokedéx-Reativo
 Pokedéx reativo
